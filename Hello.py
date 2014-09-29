@@ -1,4 +1,7 @@
 __author__ = 'Ram'
 
-print "Hello World"
+def greeting(msg):
+    print msg
+
+greeting("Hello world")
 
